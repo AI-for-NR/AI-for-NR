@@ -4,6 +4,8 @@ A seminar series on AI applications in Numerical Relativity (NR), GRMHD, and com
 
 The goal is to create an informal space to share practical tricks, tools, and workflows—such as AI-assisted coding—that help make our research faster and more robust.
 
+The seminar is for anyone interested in using AI-assisted coding in their day-to-day research, regardless of experience level. The focus is on how AI tools help us write, debug, and maintain scientific software, rather than on machine learning as a research topic itself.
+
 ## Format
 
 - Frequency: Once a month (day and time: TBD)
@@ -11,10 +13,6 @@ The goal is to create an informal space to share practical tricks, tools, and wo
 - Location: Zoom (link: TBD)
 
 Please [subscribe to our mailing list](https://groups.google.com/g/ai-for-nr) for a monthly reminder or send an email to ai-for-nr+subscribe@googlegroups.com to subscribe.
-
-For questions, please contact:
-
-* Liwei Ji (jiliwei.phys@gmail.com)
 
 ## Schedule
 
@@ -24,7 +22,9 @@ For questions, please contact:
 
 ## Giving a Talk
 
-Talks are informal and short—a tool you use daily, a workflow that saved you a week, or something that did not work. To propose a topic, TBD (contact / open an issue).
+Talks are informal and short—a tool you use daily, a workflow that saved you a week, or something that did not work. To propose a topic or ask a question, open an issue in this repository or contact:
+
+* Liwei Ji (jiliwei.phys@gmail.com)
 
 ## Resources
 
