@@ -10,6 +10,12 @@ The goal is to create an informal space to share practical tricks, tools, and wo
 - Structure: ~20–30 minute talk followed by open discussion and Q&A
 - Location: Zoom (link: TBD)
 
+Please [subscribe to our mailing list](https://groups.google.com/g/ai-for-nr) for a monthly reminder or send an email to ai-for-nr+subscribe@googlegroups.com to subscribe.
+
+For questions, please contact:
+
+* Liwei Ji (jiliwei.phys@gmail.com)
+
 ## Schedule
 
 | Date | Speaker | Topic | Materials |
