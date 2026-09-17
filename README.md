@@ -8,17 +8,18 @@ The seminar is for anyone interested in using AI-assisted coding in their day-to
 
 ## Format
 
-- Frequency: Once a month (day and time: TBD)
+- Frequency: Monthly, first Wednesday at 10:00 AM Eastern Time (ET)
 - Structure: ~20–30 minute talk followed by open discussion and Q&A
-- Location: Zoom (link: TBD)
+- Location: Zoom (https://rit.zoom.us/j/92798485585)
 
 Please [subscribe to our mailing list](https://groups.google.com/g/ai-for-nr) for a monthly reminder or send an email to ai-for-nr+subscribe@googlegroups.com to subscribe.
 
 ## Schedule
 
-| Date | Speaker | Topic | Materials |
-|------|---------|-------|-----------|
-| TBA  | —       | —     | —         |
+| Date        | Speaker      |
+|-------------|--------------|
+| Oct 7, 2026 | Zach Etienne |
+| Nov 4, 2026 | TBD          |
 
 ## Giving a Talk
 
