@@ -21,6 +21,7 @@ And [join our Slack](https://join.slack.com/t/ai-for-nr/shared_invite/zt-4av8vu3
 |-------------|--------------|
 | Oct 7, 2026 | Zach Etienne |
 | Nov 4, 2026 | TBD          |
+| Dec 2, 2026 | Hengrui Zhu  |
 
 ## Giving a Talk
 
