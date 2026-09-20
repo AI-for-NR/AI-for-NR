@@ -13,6 +13,7 @@ The seminar is for anyone interested in using AI-assisted coding in their day-to
 - Location: Zoom (https://rit.zoom.us/j/92798485585)
 
 Please [subscribe to our mailing list](https://groups.google.com/g/ai-for-nr) for a monthly reminder or send an email to ai-for-nr+subscribe@googlegroups.com to subscribe.
+And [join our Slack](https://join.slack.com/t/ai-for-nr/shared_invite/zt-4av8vu3ao-V_5dZ8IRjoK_3nu1N_guwg).
 
 ## Schedule
 
