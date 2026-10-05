@@ -8,7 +8,7 @@ The seminar is for anyone interested in using AI-assisted coding in their day-to
 
 ## Format
 
-- Frequency: Monthly, first Wednesday at 10:00 AM Eastern Time (ET)
+- Frequency: Monthly, by default on the first Wednesday at 10:00 AM Eastern Time (ET). The day and time may occasionally change, so please check the schedule below.
 - Structure: ~20–30 minute talk followed by open discussion and Q&A
 - Location: Zoom (https://rit.zoom.us/j/92798485585)
 
@@ -17,11 +17,11 @@ And [join our Slack](https://join.slack.com/t/ai-for-nr/shared_invite/zt-4av8vu3
 
 ## Schedule
 
-| Date        | Speaker      |
-|-------------|--------------|
-| Oct 7, 2026 | Zach Etienne |
-| Nov 4, 2026 | TBD          |
-| Dec 2, 2026 | Hengrui Zhu  |
+| Date             | Time (ET) | Speaker           |
+|------------------|-----------|-------------------|
+| Wed, Oct 7, 2026 | 10:00 AM  | Zach Etienne      |
+| Tue, Nov 3, 2026 | 11:00 AM  | Geoffrey Lovelace |
+| Wed, Dec 2, 2026 | 10:00 AM  | Hengrui Zhu       |
 
 ## Giving a Talk
 
