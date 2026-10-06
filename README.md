@@ -19,9 +19,9 @@ And [join our Slack](https://join.slack.com/t/ai-for-nr/shared_invite/zt-4av8vu3
 
 | Date             | Time (ET) | Speaker           |
 |------------------|-----------|-------------------|
-| Wed, Oct 7, 2026 | 10:00 AM  | Zach Etienne      |
-| Tue, Nov 3, 2026 | 11:00 AM  | Geoffrey Lovelace |
 | Wed, Dec 2, 2026 | 10:00 AM  | Hengrui Zhu       |
+| Tue, Nov 3, 2026 | 11:00 AM  | Geoffrey Lovelace |
+| Wed, Oct 7, 2026 | 10:00 AM  | Zach Etienne      |
 
 ## Giving a Talk
 
