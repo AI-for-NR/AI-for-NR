@@ -1,0 +1,12 @@
+Generated using the built-in image_gen tool.
+Reference: ai-for-nr-logo-v2-dark.png
+Output: ai-for-nr-logo-square.png
+
+Use case: precise-object-edit
+Asset type: square project logo for AI for NR, suitable for a profile image or square slide graphic.
+Input image: edit target is the supplied horizontal AI for NR logo.
+Primary request: Recompose this same logo into a balanced SQUARE 1:1 canvas, 1024 by 1024 pixels. Stack the existing wave-and-brackets emblem ABOVE the exact wordmark "AI for NR". Center both elements horizontally. Make the emblem the main visual element, roughly 72 percent of canvas width; the wordmark below is about the same width. Keep a comfortable vertical gap and generous equal outer margins. Balance the complete group around the center of the square. The result should occupy the square well while retaining enough padding for use as an avatar.
+Preserve: the existing two clean angle brackets surrounding a single smooth chirp wave whose oscillations grow taller and tighter toward the right, the font family and relative weight with bold AI and NR and lighter for, and the established color scheme.
+Colors: opaque uniform deep navy background #10263B, off-white #F0F6FC brackets and lettering, mint teal #65D9D0 wave. Match the supplied image visually.
+Text exactly: "AI for NR". One line of text under the emblem, with clear spaces around for.
+Constraints: This is a layout adaptation of the same identity. Keep the emblem geometry recognizable. Clean smooth flat vector-like artwork, crisp edges and solid colors. No extra symbol, subtitle, border, mockup, shadows, textures, gradient, glow, distressed edges or extra text. Entire image is square, not a horizontal image padded inside a square.
