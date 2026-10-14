@@ -1,0 +1,24 @@
+Generated using the built-in image_gen tool.
+Primary logo: ai-for-nr-logo-v2.png (transparent background).
+Dark version: ai-for-nr-logo-v2-dark.png (opaque navy background).
+
+PRIMARY LOGO PROMPT
+Use case: logo-brand
+Asset type: finished primary logo for the scientific seminar project AI for NR, for README and slide use.
+Primary request: Design a refined, minimal horizontal logo consisting of a compact programming-brackets-and-gravitational-wave emblem followed by the exact wordmark "AI for NR".
+Emblem: two clean open angle brackets < and > enclosing ONE continuous smooth wave. The wave has about three readable oscillations, gradually growing in amplitude and getting closer together toward the right, suggesting a gravitational wave chirp. Smooth sinusoidal curves, never an ECG zigzag. Clear air gaps between the wave and both brackets. The overall emblem is wider than tall and simple enough to recognize at small size.
+Typography: contemporary clean sans serif with excellent optical spacing. "AI" and "NR" in semibold, "for" in regular weight and slightly smaller. Visible comfortable spaces around "for". The emblem is about 1.25 times the height of the uppercase letters, optically aligned with the wordmark. A generous gap separates emblem and wordmark.
+Color palette: solid deep navy #18334F for brackets and all lettering, solid teal #178F98 for the wave only. Flat colors.
+Composition: one horizontal lockup, carefully balanced proportions, transparent outer margin, graphic fills most of a wide 3:1 canvas without crowding.
+Scene/backdrop: genuinely transparent alpha background.
+Style: precision flat graphic, vector-like edges, professional academic identity, friendly and contemporary.
+Text (verbatim): "AI for NR"
+Constraints: only one finished logo. No grid, mesh, black hole, eye motif, enclosing badge, orbit, circuit, robot, brain, extra dots, underline, subtitle, slogan or additional text. No shadows, gradients, texture, glow, bevels or mockup. This is a fresh simpler redesign.
+
+DARK VERSION EDIT PROMPT
+Use case: precise-object-edit
+Input image: edit target is the supplied AI for NR logo.
+Primary request: Produce a clean dark-background version of this exact logo. Set the ENTIRE background to a perfectly uniform solid deep navy #10263B, opaque. Set the brackets and all text to solid off-white #F0F6FC. Set the wave to solid mint teal #65D9D0.
+Preserve: the horizontal composition, continuous smooth chirp waveform, angle brackets, font, wordmark proportions, canvas proportions and margins.
+Text exactly: "AI for NR".
+Quality constraints: Reconstruct all contours as perfectly clean smooth graphic edges. Uniform solid ink throughout each letter and stroke. Completely remove ALL noise, speckles, stray pixels, roughness, fuzzy halos, holes, scratches and outlines. This is immaculate vector-like flat artwork, not distressed typography. Keep generous clear space around the word for. No glow, gradients, shadows, textures, bevels or mockup. One finished logo. The entire backdrop must be opaque navy including spaces inside all letters and between all marks.

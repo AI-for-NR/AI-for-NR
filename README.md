@@ -1,5 +1,10 @@
 # AI for NR
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ai-for-nr-logo-v2-dark.png">
+  <img src="assets/ai-for-nr-logo-v2.png" alt="AI for NR logo: a teal gravitational-wave chirp inside code brackets" width="640">
+</picture>
+
 A seminar series on AI applications in Numerical Relativity (NR), GRMHD, and computational astrophysics.
 
 The goal is to create an informal space to share practical tricks, tools, and workflows—such as AI-assisted coding—that help make our research faster and more robust.

@@ -1,0 +1,11 @@
+Generated using the built-in image_gen tool.
+
+Use case: logo-brand
+Asset type: primary project logo for repository README and scientific seminar slides.
+Primary request: Create a polished original logo for "AI for NR", an informal seminar series about AI-assisted scientific coding for numerical relativity, GRMHD and computational astrophysics.
+Subject: A distinctive compact emblem combining curved spacetime geometry with subtle programming angle brackets. Use a small number of bold elegant curved lines suggesting a gravitational spacetime mesh around a circular negative-space center; integrate the bracket idea into the outer silhouette so it reads as one coherent mark. It must remain recognizable at small size.
+Style/medium: clean flat graphic logo with vector-like precision, thoughtful geometric construction, restrained academic yet approachable identity. One solid near-black ink color, no gradients.
+Composition/framing: horizontal logo lockup, emblem on the left, generously spaced wordmark on the right, optically balanced, plenty of transparent padding, large readable elements. Deliver one finished logo only.
+Text (verbatim): "AI for NR". Use a contemporary clear sans-serif typeface; AI and NR slightly bolder, "for" lighter. Exact capitalization and spacing.
+Scene/backdrop: genuinely transparent background.
+Constraints: Crisp edges, clear typography, no subtitle, no slogan, no mockup, no decorative presentation board, no watermark, no shadow, no 3D. Avoid generic robot heads, brain symbols, circuit-board clutter and stock atom icons. The emphasis is practical AI-assisted coding and relativity.
